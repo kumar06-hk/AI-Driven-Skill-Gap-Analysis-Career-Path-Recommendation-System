@@ -41,8 +41,8 @@ Download these and place them in a `data/` folder before running the notebooks/s
 ## Files
 
 - Notebooks — model benchmarking, skill gap analysis, career path recommendation, learning resource recommendation
-- Streamlit app — the five-page dashboard
-- `outputs/` — sample results: recommendations, skill gap results, career roadmap, and a sample user profile (skills/education extracted from a resume, no personal identifiers)
+- Streamlit app — the five-page dashboard (all notebook logic integrated into `Objective_6_dashboard.py`)
+- `outputs/` — sample results generated while testing the notebooks individually (to verify each component worked before integration), not actual output from running the live dashboard. Includes recommendations, skill gap results, career roadmap, and a sample user profile (skills/education extracted from a resume, no personal identifiers)
 
 ## Note on resume data
 
