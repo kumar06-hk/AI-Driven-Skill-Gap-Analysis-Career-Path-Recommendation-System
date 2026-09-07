@@ -1,0 +1,31 @@
+Model,Rank,Similarity,Job Title
+TF-IDF,1,0.45927124,Product Architect
+TF-IDF,2,0.45927124,Product Architect
+TF-IDF,3,0.449945556,Inside Curriculum Specialist - K-12 Science
+TF-IDF,4,0.443690217,Inside Curriculum Specialist - K-12 Humanities
+TF-IDF,5,0.413815215,Customer Success Specialist / Educational Consultant
+TF-IDF,6,0.388546042,Learning Tools Strategist
+TF-IDF,7,0.266492577,"AutoCAD, Web Software Architect"
+TF-IDF,8,0.232646439,Senior Learning Designer
+TF-IDF,9,0.230257163,Software Architect
+TF-IDF,10,0.218598414,Software Engineer - Full Stack Developer
+BERT (DistilBERT),1,0.878027081,Salesforce Marketing Cloud Architect
+BERT (DistilBERT),2,0.87764442,Senior Engineer Full Stack
+BERT (DistilBERT),3,0.877114058,Associate Front End/Full Stack Developer
+BERT (DistilBERT),4,0.87604934,IAM Architect
+BERT (DistilBERT),5,0.874614477,HR Technology Analyst II
+BERT (DistilBERT),6,0.871099472,"Analyst, Business"
+BERT (DistilBERT),7,0.870622516,Data Architect
+BERT (DistilBERT),8,0.869680405,Robotics & Cognitive Architect
+BERT (DistilBERT),9,0.869410634,IT Systems Administrator
+BERT (DistilBERT),10,0.869175255,Full Stack Developer
+SBERT,1,0.656970739,Senior Web App Full Stack Developer HFS
+SBERT,2,0.656383157,Developer (Full Stack)
+SBERT,3,0.634218216,C Developer (S00959P)
+SBERT,4,0.632139325,Java Full Stack Developer
+SBERT,5,0.62934339,Senior SAAS Cloud Full Stack Developer
+SBERT,6,0.627259612,Web Architect
+SBERT,7,0.620359957,Web Developer - Full Stack
+SBERT,8,0.615188003,Product Architect
+SBERT,9,0.615188003,Product Architect
+SBERT,10,0.613616705,Full Stack Java Developer

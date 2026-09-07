@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+sentence-transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+python-dateutil
+scipy
+

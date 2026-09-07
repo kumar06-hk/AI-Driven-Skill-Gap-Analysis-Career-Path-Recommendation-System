@@ -1,0 +1,129 @@
+skill,course_name,organization,difficulty,rating,url,similarity_score,weighted_score
+.net,.Net Full Stack Foundation,Board Infinity,Beginner level,4.1,https://www.coursera.org/learn/dot-net-full-stack-foundation,0.7519,0.7723
+.net,Introduction to .NET Core,Board Infinity,Beginner level,4.0,https://www.coursera.org/learn/intro-to-dotnet-core,0.6075,0.6653
+.net,ASP.NET Core - SOLID and Clean Architecture (.NET 5 and Up),Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-asp-net-core-solid-and-clean-architecture-net-5-and-up-iqwi9,0.4833,0.6203
+.net,Backend Development for .Net Full Stack,Board Infinity,Intermediate level,3.9,https://www.coursera.org/learn/backend-development-dot-net-fullstack,0.5286,0.604
+.net,ASP.NET for Experienced Developers Specialization,Board Infinity,Intermediate level,4.0,https://www.coursera.org/specializations/asp-dot-net-experience,0.5096,0.5967
+agile,Managing an Agile Team,University of Virginia,Not specified,4.7,https://www.coursera.org/learn/uva-darden-agile-team-management,0.6603,0.7442
+agile,Agile Dev Practices: SDLC & Project Management,Northeastern University,Beginner level,Not rated,https://www.coursera.org/learn/agile-dev-practices-sdlc--project-management,0.5486,0.666
+agile,SAFe Fundamentals Specialization,Board Infinity,Beginner level,3.7,https://www.coursera.org/specializations/safe,0.6092,0.6485
+agile,Agile Leadership Specialization,University of Colorado System,Beginner level,4.8,https://www.coursera.org/specializations/agile-leadership-change-management,0.5021,0.6395
+agile,Introduction to Agile Development and Scrum,IBM,Beginner level,4.9,https://www.coursera.org/learn/agile-development-and-scrum,0.4568,0.6137
+angular,Advanced Angular Development,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/advanced-angular-development,0.6139,0.7118
+angular,Angular 17 Specialization,LearnQuest,Beginner level,4.5,https://www.coursera.org/specializations/angular17,0.5884,0.6819
+angular,Theory of Angular Momentum,University of Colorado Boulder,Intermediate level,4.0,https://www.coursera.org/learn/theory-of-angular-momentum,0.5276,0.6093
+angular,Advanced Angular Topics,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/advanced-angular-topics,0.4605,0.6043
+angular,Angular 17 Overview & Basics,LearnQuest,Beginner level,4.4,https://www.coursera.org/learn/angular17course1,0.3307,0.4955
+aws,AWS Advanced,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/aws-architect-associate-aws-advanced,0.7278,0.7915
+aws,AWS Fundamentals Specialization,Amazon Web Services,Beginner level,4.6,https://www.coursera.org/specializations/aws-fundamentals,0.6659,0.7421
+aws,Hands-on with AWS for IT Professionals,Amazon Web Services,Beginner level,4.8,https://www.coursera.org/learn/aws-handson-skills,0.6141,0.7179
+aws,AWS Services,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/aws-cloud-practitioner-certification-aws-services,0.6155,0.7128
+aws,AWS Core Services,Edureka,Intermediate level,Not rated,https://www.coursera.org/learn/aws-core-services,0.566,0.6782
+azure,Building AI Cloud Apps with Microsoft Azure Specialization,Microsoft,Intermediate level,Not rated,https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure,0.6679,0.7496
+azure,Azure Cloud Services,Microsoft,Beginner level,Not rated,https://www.coursera.org/learn/azure-cloud-services,0.644,0.7328
+azure,Manage Identities and Governance in Azure,Whizlabs,Intermediate level,4.2,https://www.coursera.org/learn/manage-identities-and-governance-in-azure,0.6842,0.731
+azure,Cloud Computing Essentials with Azure Management,Microsoft,Beginner level,Not rated,https://www.coursera.org/learn/cloud-computing-essentials-with-azure-management,0.6325,0.7248
+azure,Microsoft Azure Developer Associate (AZ-204) Exam Prep Professional Certificate Professional Certificate,Microsoft,Intermediate level,4.6,https://www.coursera.org/professional-certificates/azure-developer-associate,0.5896,0.6888
+bootstrap,Learn Bootstrap,Scrimba,Intermediate level,Not rated,https://www.coursera.org/learn/learn-bootstrap,0.5635,0.6764
+bootstrap,Developing Websites and Front-Ends with Bootstrap,IBM,Intermediate level,4.5,https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap,0.492,0.6144
+bootstrap,Coding the Static Restaurant Site,Johns Hopkins University,Not specified,4.6,https://www.coursera.org/learn/coding-the-static-restaurant-site-jhu,0.2326,0.4389
+bootstrap,Advanced Styling with Responsive Design,University of Michigan,Beginner level,4.7,https://www.coursera.org/learn/responsivedesign,0.1339,0.3757
+bootstrap,HTML and CSS in depth,Meta,Beginner level,4.7,https://www.coursera.org/learn/html-and-css-in-depth,0.1276,0.3714
+communication,Program Management and the Art of Communication Specialization,"University of Maryland, College Park",Beginner level,4.8,https://www.coursera.org/specializations/program-management-and-the-art-of-communication,0.4988,0.6372
+communication,Introduction to Communication Science,University of Amsterdam,Not specified,4.7,https://www.coursera.org/learn/communication,0.4243,0.579
+communication,Digital Communication and Emotion,Arizona State University,Not specified,Not rated,https://www.coursera.org/learn/digitalcommunicationandemotion,0.4136,0.5715
+communication,Engaging in Persuasive and Credible Communication,National University of Singapore,Beginner level,4.6,https://www.coursera.org/learn/persuasive-communication,0.3839,0.5447
+communication,Communication Strategies for a Virtual Age,University of Toronto,Beginner level,4.8,https://www.coursera.org/learn/communication-strategies-virtual-age,0.3649,0.5434
+data mining,Data Mining Foundations and Practice Specialization,University of Colorado Boulder,Intermediate level,3.8,https://www.coursera.org/specializations/data-mining-foundations-practice,0.7793,0.7735
+data mining,Data Mining Project,University of Illinois Urbana-Champaign,Not specified,4.5,https://www.coursera.org/learn/data-mining-project,0.714,0.7698
+data mining,Data Mining  Specialization,University of Illinois Urbana-Champaign,Intermediate level,4.5,https://www.coursera.org/specializations/data-mining,0.7049,0.7635
+data mining,Machine Learning in Healthcare: Fundamentals & Applications,Northeastern University,Beginner level,Not rated,https://www.coursera.org/learn/machine-learning-in-healthcare-fundamentals-and-applications,0.6612,0.7449
+data mining,Machine Learning for Healthcare Professionals,Northeastern University,Not specified,Not rated,https://www.coursera.org/learn/machine-learning-for-healthcare-professionals,0.629,0.7223
+docker,Docker for Beginners with Hands-on labs,KodeKloud,Beginner level,4.5,https://www.coursera.org/learn/docker-for-the-absolute-beginner,0.8476,0.8634
+docker,Containerize Spring Boot CRUD with Docker and Docker Compose,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-containerize-spring-boot-crud-with-docker-and-docker-compose-f2tck,0.719,0.7853
+docker,Getting Started with Docker,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/docker-certified-associate-getting-started-with-docker,0.7009,0.7727
+docker,Introduction to Docker,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/introduction-to-docker,0.5165,0.6435
+docker,Docker Fundamentals,LearnKartS,Beginner level,3.3,https://www.coursera.org/learn/docker-certified-associate-docker-fundamentals,0.5866,0.6086
+express,Developing Back-End Apps with Node.js and Express,IBM,Intermediate level,4.5,https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express,0.3729,0.531
+express,Backend Development and API Creation,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-backend-development-and-api-creation-w2u4y,0.293,0.4871
+express,"JavaScript Programming with React, Node & MongoDB Specialization",IBM,Beginner level,4.6,https://www.coursera.org/specializations/javascript-programming-with-react-node-mongodb,0.2451,0.4476
+express,"MERN Stack Front To Back: Full Stack React, Redux & Node.js Specialization",Packt,Beginner level,Not rated,https://www.coursera.org/specializations/packt-mern-stack-front-to-back-full-stack-react-redux-and-node-js,0.1886,0.414
+express,Enhance your Writing with Adverb Clauses,"University of California, Irvine",Intermediate level,4.8,https://www.coursera.org/learn/english-writing-grammar-adverb-clauses,0.1763,0.4114
+git,Getting Started with Git and GitHub,IBM,Beginner level,4.6,https://www.coursera.org/learn/getting-started-with-git-and-github,0.6978,0.7644
+git,Using Git for Distributed Development,The Linux Foundation,Beginner level,4.6,https://www.coursera.org/learn/git-distributed-development,0.6684,0.7439
+git,Version Control with Git,Atlassian,Not specified,4.7,https://www.coursera.org/learn/version-control-with-git,0.5221,0.6475
+git,Introduction to Git and GitHub,Google,Beginner level,4.8,https://www.coursera.org/learn/introduction-git-github,0.4867,0.6287
+git,"Open Source Software Development, Linux and Git Specialization",The Linux Foundation,Beginner level,4.6,https://www.coursera.org/specializations/oss-development-linux-git,0.2494,0.4506
+jquery,"JavaScript, jQuery, and JSON",University of Michigan,Intermediate level,4.6,https://www.coursera.org/learn/javascript-jquery-json,0.3855,0.5458
+jquery,JavaScript for Beginners Specialization,"University of California, Davis",Beginner level,4.7,https://www.coursera.org/specializations/javascript-beginner,0.2893,0.4845
+jquery,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.273,0.4791
+jquery,"Build Website with HTML, JavaScript, AngularJS, and React Specialization",Board Infinity,Beginner level,4.3,https://www.coursera.org/specializations/build-dynamic-website,0.1693,0.3765
+jquery,Fundamentals of Web Development,Illinois Tech,Beginner level,Not rated,https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development,0.1321,0.3745
+kafka,Kafka Architecture and Internals,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/apache-kafka-architecture-and-internals,0.6751,0.7546
+kafka,Kafka Fundamentals,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/apache-kafka-fundamentals,0.6712,0.7519
+kafka,Apache Kafka Specialization,LearnKartS,Beginner level,4.1,https://www.coursera.org/specializations/complete-apache-kafka-course,0.6595,0.7077
+kafka,"ETL and Data Pipelines with Shell, Airflow and Kafka",IBM,Intermediate level,4.5,https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka,0.2038,0.4126
+kafka,The Ultimate Hands-On Hadoop,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-the-ultimate-hands-on-hadoop-enniy,0.1252,0.3696
+kubernetes,Advanced Kubernetes,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/certified-kubernetes-application-developer-advanced-kubernetes,0.6782,0.7567
+kubernetes,Kubernetes Fundamentals,LearnKartS,Beginner level,Not rated,https://www.coursera.org/learn/certified-kubernetes-application-developer-kubernetes-fundamentals,0.6447,0.7333
+kubernetes,Kubernetes for Beginners,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-kubernetes-for-beginners-pj7v5,0.6314,0.724
+kubernetes,Fundamentals of Kubernetes Deployment,LearnQuest,Intermediate level,4.3,https://www.coursera.org/learn/kubernetes-deployment,0.624,0.6948
+kubernetes,Certified Kubernetes Application Developer (CKAD) Specialization,LearnKartS,Intermediate level,4.5,https://www.coursera.org/specializations/certified-kubernetes-application-developer-ckad-course,0.5957,0.687
+laravel,"Laravel: Configure, Validate, Authenticate and Authorize",Infosec,Beginner level,5.0,https://www.coursera.org/learn/secure-coding-in-laravel-course-1,0.7084,0.7959
+laravel,Secure Coding in Laravel Specialization,Infosec,Beginner level,5.0,https://www.coursera.org/specializations/secure-coding-in-laravel,0.58,0.706
+laravel,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.557,0.6419
+leadership,Leadership: An Introduction Specialization,Johns Hopkins University,Beginner level,4.5,https://www.coursera.org/specializations/leadership-introduction,0.6767,0.7437
+leadership,Nursing Informatics Leadership Theory and Practice,University of Minnesota,Beginner level,4.7,https://www.coursera.org/learn/nursing-informatics-leaders,0.544,0.6628
+leadership,Leadership Skills,IIMA - IIM Ahmedabad,Beginner level,4.8,https://www.coursera.org/learn/leadershipskills,0.496,0.6352
+leadership,Advanced Leadership Skills for the 21st Century Specialization,Kennesaw State University,Intermediate level,4.5,https://www.coursera.org/specializations/advanced-leadership-skills,0.4478,0.5835
+leadership,Cybersecurity Leadership and Management Specialization,Infosec,Beginner level,4.5,https://www.coursera.org/specializations/cybersecurity-leadership,0.4415,0.579
+linux,Linux for beginners with Hands-on Labs,KodeKloud,Beginner level,Not rated,https://www.coursera.org/learn/linux-for-beginners-with-hands-on-labs,0.7765,0.8255
+linux,A Beginners Guide to Linux,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-a-beginners-guide-to-linux-z2e2k,0.6629,0.746
+linux,Linux for Cloud and DevOps Engineers,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-linux-for-cloud-and-devops-engineers-7plvl,0.6325,0.7248
+linux,Managing Linux Systems,LearnQuest,Beginner level,4.5,https://www.coursera.org/learn/managing-linux-systems,0.643,0.7201
+linux,Linux Operating System: A Complete Linux Guide for Beginners,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-linux-operating-system-a-complete-linux-guide-for-beginners-mntno,0.6235,0.7185
+mongodb,Introduction to MongoDB,MongoDB Inc.,Beginner level,4.6,https://www.coursera.org/learn/introduction-to-mongodb,0.7708,0.8155
+mongodb,Data Wrangling with MongoDB,Edureka,Intermediate level,Not rated,https://www.coursera.org/learn/data-wrangling-with-mongodb,0.6111,0.7098
+mongodb,MongoDB Aggregation Framework,MongoDB Inc.,Intermediate level,4.5,https://www.coursera.org/learn/mongodb-aggregation-framework,0.4602,0.5921
+mongodb,Node.js & MongoDB: Developing Back-end Database Applications,IBM,Intermediate level,4.5,https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb,0.3132,0.4892
+mongodb,Responsive Website Development and Design Specialization,University of London,Beginner level,4.6,https://www.coursera.org/specializations/website-development,0.2925,0.4807
+oracle,Oracle SQL Basics,LearnQuest,Beginner level,4.6,https://www.coursera.org/learn/oracle-sql-basics,0.6061,0.7003
+oracle,Oracle SQL Exam Prep,LearnQuest,Beginner level,4.8,https://www.coursera.org/learn/oracle-sql-examprep,0.4905,0.6313
+oracle,Oracle Cloud Infrastructure Operations Professional,Oracle,Beginner level,4.9,https://www.coursera.org/learn/oracle-cloud-infrastructure-operations-associate,0.4669,0.6208
+oracle,BigQuery Fundamentals for Oracle Professionals,Google Cloud,Intermediate level,Not rated,https://www.coursera.org/learn/bigquery-fundamentals-for-oracle-professionals,0.4744,0.6141
+oracle,Oracle Database Platform,LearnQuest,Beginner level,4.6,https://www.coursera.org/learn/oracle-database-platform,0.4826,0.6138
+php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+php,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.5111,0.6098
+php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+php,Secure Coding in Laravel Specialization,Infosec,Beginner level,5.0,https://www.coursera.org/specializations/secure-coding-in-laravel,0.3193,0.5235
+php,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.2772,0.4821
+presentation,"Effective Communication: Writing, Design, and Presentation Specialization",University of Colorado Boulder,Beginner level,4.8,https://www.coursera.org/specializations/effective-business-communication,0.451,0.6037
+presentation,Present with Purpose: Create/Deliver Effective Presentations,IBM,Beginner level,4.6,https://www.coursera.org/learn/present-with-purpose,0.4291,0.5763
+presentation,Successful Presentation,University of Colorado Boulder,Beginner level,4.8,https://www.coursera.org/learn/presentation-skills,0.3254,0.5158
+presentation,Data Analysis and Presentation Skills: the PwC Approach Final Project,PwC,Beginner level,4.7,https://www.coursera.org/learn/data-analysis-project-pwc,0.3064,0.4964
+presentation,Effective Business Presentations with Powerpoint,PwC,Beginner level,4.5,https://www.coursera.org/learn/powerpoint-presentations,0.3065,0.4845
+react,Advanced React Projects and Ecommerce Development,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-advanced-react-projects-and-ecommerce-development-neuup,0.7277,0.7914
+react,Learn React,Scrimba,Intermediate level,4.7,https://www.coursera.org/learn/learn-react,0.7058,0.7761
+react,React Native,Meta,Intermediate level,4.8,https://www.coursera.org/learn/react-native-course,0.6395,0.7357
+react,Learn Advanced React,Scrimba,Advanced level,4.6,https://www.coursera.org/learn/learn-advanced-react,0.6313,0.7179
+react,Developing Mobile Apps with React Native Specialization,IBM,Beginner level,Not rated,https://www.coursera.org/specializations/developing-mobile-apps-with-react-native,0.5423,0.6616
+sap,Becoming an SAP Professional,SAP,Beginner level,4.7,https://www.coursera.org/learn/becoming-an-sap-professional,0.7891,0.8344
+sap,SAP Technology Consultant  Professional Certificate,SAP,Beginner level,4.7,https://www.coursera.org/professional-certificates/sap-technology-consultant,0.7647,0.8173
+sap,Implementing an SAP Solution,SAP,Beginner level,4.8,https://www.coursera.org/learn/implementing-an-sap-solution,0.7028,0.78
+sap,Designing an SAP Solution,SAP,Beginner level,4.8,https://www.coursera.org/learn/designing-an-sap-solution,0.691,0.7717
+sap,SAP Customer Engagement and Discovery,SAP,Beginner level,4.7,https://www.coursera.org/learn/sap-customer-engagement-and-discovery,0.5894,0.6946
+seo,Introduction to Google SEO,"University of California, Davis",Beginner level,4.6,https://www.coursera.org/learn/search-engine-optimization,0.5518,0.6623
+seo,Google SEO Capstone Project,"University of California, Davis",Intermediate level,4.8,https://www.coursera.org/learn/seo-project,0.5292,0.6585
+seo,Google SEO Fundamentals,"University of California, Davis",Not specified,4.8,https://www.coursera.org/learn/seo-fundamentals,0.5049,0.6415
+seo,Advanced Content and Social Tactics to Optimize SEO,"University of California, Davis",Intermediate level,4.6,https://www.coursera.org/learn/seo-tactics,0.3649,0.5315
+seo,Measurement and Analysis,Unilever,Beginner level,4.6,https://www.coursera.org/learn/measurement-and-analysis,0.354,0.5238
+spring,Spring Framework Specialization,LearnQuest,Beginner level,3.9,https://www.coursera.org/specializations/spring-framework,0.6487,0.6881
+spring,Scalable Microservices for Developers Specialization,Vanderbilt University,Intermediate level,4.5,https://www.coursera.org/specializations/microservices,0.5916,0.6841
+spring,Spring Data Repositories,LearnQuest,Intermediate level,4.0,https://www.coursera.org/learn/spring-repositories,0.6076,0.6653
+spring,"Spring MVC, Spring Boot  and Rest Controllers",LearnQuest,Intermediate level,4.1,https://www.coursera.org/learn/spring-mvc-rest-controller,0.5603,0.6382
+spring,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,Intermediate level,4.3,https://www.coursera.org/learn/google-cloud-java-spring,0.5077,0.6134
+teamwork,Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,Beginner level,4.7,https://www.coursera.org/learn/teamwork-skills-effective-communication,0.3999,0.5619
+teamwork,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,Not specified,4.8,https://www.coursera.org/learn/leadership-collaboration,0.2969,0.4958
+teamwork,Cross Functional Collaboration,Starweaver,Intermediate level,4.7,https://www.coursera.org/learn/crossfunctional-collaboration,0.244,0.4528
+teamwork,AWS Cloud Technology Consultant Professional Certificate,Amazon Web Services,Beginner level,4.8,https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant,0.1658,0.404
+teamwork,Leading Teams,University of Michigan,Beginner level,4.8,https://www.coursera.org/learn/leading-teams,0.131,0.3797

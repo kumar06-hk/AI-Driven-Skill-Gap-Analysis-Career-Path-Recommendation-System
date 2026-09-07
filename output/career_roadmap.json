@@ -1,0 +1,276 @@
+{
+  "best_track": "Information & Communication Technology",
+  "best_match_pct": 30.0,
+  "current_tier": "Mid-Level",
+  "next_tier": "Senior",
+  "years_experience": 4.3,
+  "resume_skills": [
+    "Python",
+    "Java",
+    "C++",
+    "HTML",
+    "CSS",
+    "SQL",
+    "MYSQL",
+    "IBM DB2",
+    "Microsoft Excel",
+    "Microsoft Office Suite"
+  ],
+  "education": [
+    "Bachelor of Computer Science (Undergraduate) Aug 2023 - Aug 2026",
+    "Foundation in Information Technology Aug 2022 - Aug 2023"
+  ],
+  "tier_order": [
+    "Junior",
+    "Mid-Level",
+    "Senior",
+    "Manager/Lead"
+  ],
+  "alternative_tracks": [],
+  "all_tracks": [
+    {
+      "Career Track": "Information & Communication Technology",
+      "Current Tier": "Mid-Level",
+      "Junior %": 30.0,
+      "Mid-Level %": 27.3,
+      "Senior %": 24.3
+    },
+    {
+      "Career Track": "Accounting",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 15.6,
+      "Senior %": 15.6
+    },
+    {
+      "Career Track": "Engineering",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 18.8,
+      "Senior %": 17.6
+    },
+    {
+      "Career Track": "Administration & Office Support",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 15.6,
+      "Senior %": 13.5
+    },
+    {
+      "Career Track": "Manufacturing, Transport & Logistics",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 16.1,
+      "Senior %": 14.7
+    },
+    {
+      "Career Track": "Human Resources & Recruitment",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 15.6,
+      "Senior %": 14.3
+    },
+    {
+      "Career Track": "Call Centre & Customer Service",
+      "Current Tier": "Mid-Level",
+      "Junior %": 16.7,
+      "Mid-Level %": 16.7,
+      "Senior %": 17.6
+    },
+    {
+      "Career Track": "Banking & Financial Services",
+      "Current Tier": "Mid-Level",
+      "Junior %": 13.3,
+      "Mid-Level %": 17.6,
+      "Senior %": 15.8
+    },
+    {
+      "Career Track": "Sales",
+      "Current Tier": "Mid-Level",
+      "Junior %": 11.5,
+      "Mid-Level %": 11.8,
+      "Senior %": 13.5
+    },
+    {
+      "Career Track": "Marketing & Communications",
+      "Current Tier": "Mid-Level",
+      "Junior %": 10.0,
+      "Mid-Level %": 12.1,
+      "Senior %": 16.7
+    }
+  ],
+  "progression": {
+    "Junior": {
+      "match_pct": 30.0,
+      "matched": [
+        "c",
+        "css",
+        "excel",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "python",
+        "sql"
+      ],
+      "missing": [
+        "accounting",
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "communication",
+        "customer service",
+        "data analysis",
+        "devops",
+        "git",
+        "leadership",
+        "linux",
+        "machine learning",
+        "oracle",
+        "php",
+        "problem solving",
+        "project management",
+        "react",
+        "recruitment",
+        "sap",
+        "training"
+      ]
+    },
+    "Mid-Level": {
+      "match_pct": 27.3,
+      "matched": [
+        "c",
+        "css",
+        "excel",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "python",
+        "sql"
+      ],
+      "missing": [
+        ".net",
+        "accounting",
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "communication",
+        "customer service",
+        "data analysis",
+        "devops",
+        "git",
+        "leadership",
+        "linux",
+        "machine learning",
+        "oracle",
+        "php",
+        "presentation",
+        "problem solving",
+        "project management",
+        "react",
+        "recruitment",
+        "sap",
+        "scrum",
+        "training"
+      ]
+    },
+    "Senior": {
+      "match_pct": 24.3,
+      "matched": [
+        "c",
+        "css",
+        "excel",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "python",
+        "sql"
+      ],
+      "missing": [
+        ".net",
+        "accounting",
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "ci/cd",
+        "communication",
+        "customer service",
+        "data analysis",
+        "devops",
+        "git",
+        "go",
+        "leadership",
+        "linux",
+        "machine learning",
+        "oracle",
+        "php",
+        "presentation",
+        "problem solving",
+        "project management",
+        "react",
+        "recruitment",
+        "salesforce",
+        "sap",
+        "scrum",
+        "spring",
+        "training"
+      ]
+    },
+    "Manager/Lead": {
+      "match_pct": 22.7,
+      "matched": [
+        "c",
+        "css",
+        "excel",
+        "html",
+        "java",
+        "javascript",
+        "mysql",
+        "python",
+        "r",
+        "sql"
+      ],
+      "missing": [
+        ".net",
+        "accounting",
+        "agile",
+        "angular",
+        "aws",
+        "azure",
+        "ci/cd",
+        "communication",
+        "crm",
+        "customer service",
+        "data analysis",
+        "devops",
+        "git",
+        "go",
+        "iso",
+        "jira",
+        "leadership",
+        "linux",
+        "machine learning",
+        "negotiation",
+        "oracle",
+        "php",
+        "presentation",
+        "problem solving",
+        "project management",
+        "react",
+        "recruitment",
+        "salesforce",
+        "sap",
+        "scrum",
+        "spring",
+        "teamwork",
+        "time management",
+        "training"
+      ]
+    }
+  }
+}

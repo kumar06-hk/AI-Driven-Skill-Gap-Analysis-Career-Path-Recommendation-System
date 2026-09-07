@@ -1,0 +1,148 @@
+job_rank,job_title,missing_skill,course_name,organization,difficulty,rating,url,similarity_score,weighted_score
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",laravel,"Laravel: Configure, Validate, Authenticate and Authorize",Infosec,Beginner level,5.0,https://www.coursera.org/learn/secure-coding-in-laravel-course-1,0.7084,0.7959
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",laravel,Secure Coding in Laravel Specialization,Infosec,Beginner level,5.0,https://www.coursera.org/specializations/secure-coding-in-laravel,0.58,0.706
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",laravel,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.557,0.6419
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",react,Advanced React Projects and Ecommerce Development,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-advanced-react-projects-and-ecommerce-development-neuup,0.7277,0.7914
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",react,Learn React,Scrimba,Intermediate level,4.7,https://www.coursera.org/learn/learn-react,0.7058,0.7761
+1,"Developer (Vue.JS / PHP, React Native & HTML/CSS & SQL) (ID: 610843)",react,React Native,Meta,Intermediate level,4.8,https://www.coursera.org/learn/react-native-course,0.6395,0.7357
+2,Analyst Programmer,agile,Managing an Agile Team,University of Virginia,Not specified,4.7,https://www.coursera.org/learn/uva-darden-agile-team-management,0.6603,0.7442
+2,Analyst Programmer,agile,Agile Dev Practices: SDLC & Project Management,Northeastern University,Beginner level,Not rated,https://www.coursera.org/learn/agile-dev-practices-sdlc--project-management,0.5486,0.666
+2,Analyst Programmer,agile,SAFe Fundamentals Specialization,Board Infinity,Beginner level,3.7,https://www.coursera.org/specializations/safe,0.6092,0.6485
+2,Analyst Programmer,aws,AWS Advanced,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/aws-architect-associate-aws-advanced,0.7278,0.7915
+2,Analyst Programmer,aws,AWS Fundamentals Specialization,Amazon Web Services,Beginner level,4.6,https://www.coursera.org/specializations/aws-fundamentals,0.6659,0.7421
+2,Analyst Programmer,aws,Hands-on with AWS for IT Professionals,Amazon Web Services,Beginner level,4.8,https://www.coursera.org/learn/aws-handson-skills,0.6141,0.7179
+2,Analyst Programmer,azure,Building AI Cloud Apps with Microsoft Azure Specialization,Microsoft,Intermediate level,Not rated,https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure,0.6679,0.7496
+2,Analyst Programmer,azure,Azure Cloud Services,Microsoft,Beginner level,Not rated,https://www.coursera.org/learn/azure-cloud-services,0.644,0.7328
+2,Analyst Programmer,azure,Manage Identities and Governance in Azure,Whizlabs,Intermediate level,4.2,https://www.coursera.org/learn/manage-identities-and-governance-in-azure,0.6842,0.731
+2,Analyst Programmer,communication,Program Management and the Art of Communication Specialization,"University of Maryland, College Park",Beginner level,4.8,https://www.coursera.org/specializations/program-management-and-the-art-of-communication,0.4988,0.6372
+2,Analyst Programmer,communication,Introduction to Communication Science,University of Amsterdam,Not specified,4.7,https://www.coursera.org/learn/communication,0.4243,0.579
+2,Analyst Programmer,communication,Digital Communication and Emotion,Arizona State University,Not specified,Not rated,https://www.coursera.org/learn/digitalcommunicationandemotion,0.4136,0.5715
+2,Analyst Programmer,data mining,Data Mining Foundations and Practice Specialization,University of Colorado Boulder,Intermediate level,3.8,https://www.coursera.org/specializations/data-mining-foundations-practice,0.7793,0.7735
+2,Analyst Programmer,data mining,Data Mining Project,University of Illinois Urbana-Champaign,Not specified,4.5,https://www.coursera.org/learn/data-mining-project,0.714,0.7698
+2,Analyst Programmer,data mining,Data Mining  Specialization,University of Illinois Urbana-Champaign,Intermediate level,4.5,https://www.coursera.org/specializations/data-mining,0.7049,0.7635
+2,Analyst Programmer,jquery,"JavaScript, jQuery, and JSON",University of Michigan,Intermediate level,4.6,https://www.coursera.org/learn/javascript-jquery-json,0.3855,0.5458
+2,Analyst Programmer,jquery,JavaScript for Beginners Specialization,"University of California, Davis",Beginner level,4.7,https://www.coursera.org/specializations/javascript-beginner,0.2893,0.4845
+2,Analyst Programmer,jquery,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.273,0.4791
+2,Analyst Programmer,laravel,"Laravel: Configure, Validate, Authenticate and Authorize",Infosec,Beginner level,5.0,https://www.coursera.org/learn/secure-coding-in-laravel-course-1,0.7084,0.7959
+2,Analyst Programmer,laravel,Secure Coding in Laravel Specialization,Infosec,Beginner level,5.0,https://www.coursera.org/specializations/secure-coding-in-laravel,0.58,0.706
+2,Analyst Programmer,laravel,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.557,0.6419
+2,Analyst Programmer,leadership,Leadership: An Introduction Specialization,Johns Hopkins University,Beginner level,4.5,https://www.coursera.org/specializations/leadership-introduction,0.6767,0.7437
+2,Analyst Programmer,leadership,Nursing Informatics Leadership Theory and Practice,University of Minnesota,Beginner level,4.7,https://www.coursera.org/learn/nursing-informatics-leaders,0.544,0.6628
+2,Analyst Programmer,leadership,Leadership Skills,IIMA - IIM Ahmedabad,Beginner level,4.8,https://www.coursera.org/learn/leadershipskills,0.496,0.6352
+2,Analyst Programmer,linux,Linux for beginners with Hands-on Labs,KodeKloud,Beginner level,Not rated,https://www.coursera.org/learn/linux-for-beginners-with-hands-on-labs,0.7765,0.8255
+2,Analyst Programmer,linux,A Beginners Guide to Linux,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-a-beginners-guide-to-linux-z2e2k,0.6629,0.746
+2,Analyst Programmer,linux,Linux for Cloud and DevOps Engineers,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-linux-for-cloud-and-devops-engineers-7plvl,0.6325,0.7248
+2,Analyst Programmer,php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+2,Analyst Programmer,php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+2,Analyst Programmer,presentation,"Effective Communication: Writing, Design, and Presentation Specialization",University of Colorado Boulder,Beginner level,4.8,https://www.coursera.org/specializations/effective-business-communication,0.451,0.6037
+2,Analyst Programmer,presentation,Present with Purpose: Create/Deliver Effective Presentations,IBM,Beginner level,4.6,https://www.coursera.org/learn/present-with-purpose,0.4291,0.5763
+2,Analyst Programmer,presentation,Successful Presentation,University of Colorado Boulder,Beginner level,4.8,https://www.coursera.org/learn/presentation-skills,0.3254,0.5158
+3,Junior PHP Developer,bootstrap,Learn Bootstrap,Scrimba,Intermediate level,Not rated,https://www.coursera.org/learn/learn-bootstrap,0.5635,0.6764
+3,Junior PHP Developer,bootstrap,Developing Websites and Front-Ends with Bootstrap,IBM,Intermediate level,4.5,https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap,0.492,0.6144
+3,Junior PHP Developer,bootstrap,Coding the Static Restaurant Site,Johns Hopkins University,Not specified,4.6,https://www.coursera.org/learn/coding-the-static-restaurant-site-jhu,0.2326,0.4389
+3,Junior PHP Developer,communication,Program Management and the Art of Communication Specialization,"University of Maryland, College Park",Beginner level,4.8,https://www.coursera.org/specializations/program-management-and-the-art-of-communication,0.4988,0.6372
+3,Junior PHP Developer,communication,Introduction to Communication Science,University of Amsterdam,Not specified,4.7,https://www.coursera.org/learn/communication,0.4243,0.579
+3,Junior PHP Developer,communication,Digital Communication and Emotion,Arizona State University,Not specified,Not rated,https://www.coursera.org/learn/digitalcommunicationandemotion,0.4136,0.5715
+3,Junior PHP Developer,php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+3,Junior PHP Developer,php,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.5111,0.6098
+3,Junior PHP Developer,php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+4,Junior PHP Web Developer,bootstrap,Learn Bootstrap,Scrimba,Intermediate level,Not rated,https://www.coursera.org/learn/learn-bootstrap,0.5635,0.6764
+4,Junior PHP Web Developer,bootstrap,Developing Websites and Front-Ends with Bootstrap,IBM,Intermediate level,4.5,https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap,0.492,0.6144
+4,Junior PHP Web Developer,bootstrap,Coding the Static Restaurant Site,Johns Hopkins University,Not specified,4.6,https://www.coursera.org/learn/coding-the-static-restaurant-site-jhu,0.2326,0.4389
+4,Junior PHP Web Developer,communication,Program Management and the Art of Communication Specialization,"University of Maryland, College Park",Beginner level,4.8,https://www.coursera.org/specializations/program-management-and-the-art-of-communication,0.4988,0.6372
+4,Junior PHP Web Developer,communication,Introduction to Communication Science,University of Amsterdam,Not specified,4.7,https://www.coursera.org/learn/communication,0.4243,0.579
+4,Junior PHP Web Developer,communication,Digital Communication and Emotion,Arizona State University,Not specified,Not rated,https://www.coursera.org/learn/digitalcommunicationandemotion,0.4136,0.5715
+4,Junior PHP Web Developer,php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+4,Junior PHP Web Developer,php,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.5111,0.6098
+4,Junior PHP Web Developer,php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+5,Java Programmer (Executive),angular,Advanced Angular Development,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/advanced-angular-development,0.6139,0.7118
+5,Java Programmer (Executive),angular,Angular 17 Specialization,LearnQuest,Beginner level,4.5,https://www.coursera.org/specializations/angular17,0.5884,0.6819
+5,Java Programmer (Executive),angular,Theory of Angular Momentum,University of Colorado Boulder,Intermediate level,4.0,https://www.coursera.org/learn/theory-of-angular-momentum,0.5276,0.6093
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",laravel,"Laravel: Configure, Validate, Authenticate and Authorize",Infosec,Beginner level,5.0,https://www.coursera.org/learn/secure-coding-in-laravel-course-1,0.7084,0.7959
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",laravel,Secure Coding in Laravel Specialization,Infosec,Beginner level,5.0,https://www.coursera.org/specializations/secure-coding-in-laravel,0.58,0.706
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",laravel,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.557,0.6419
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",react,Advanced React Projects and Ecommerce Development,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-advanced-react-projects-and-ecommerce-development-neuup,0.7277,0.7914
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",react,Learn React,Scrimba,Intermediate level,4.7,https://www.coursera.org/learn/learn-react,0.7058,0.7761
+6,"System Developer (React Native, PHP, MySQL/MS SQL & equivalent) (ID: 599747)",react,React Native,Meta,Intermediate level,4.8,https://www.coursera.org/learn/react-native-course,0.6395,0.7357
+7,FULLSTACK DEVELOPER,.net,.Net Full Stack Foundation,Board Infinity,Beginner level,4.1,https://www.coursera.org/learn/dot-net-full-stack-foundation,0.7519,0.7723
+7,FULLSTACK DEVELOPER,.net,Introduction to .NET Core,Board Infinity,Beginner level,4.0,https://www.coursera.org/learn/intro-to-dotnet-core,0.6075,0.6653
+7,FULLSTACK DEVELOPER,.net,ASP.NET Core - SOLID and Clean Architecture (.NET 5 and Up),Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-asp-net-core-solid-and-clean-architecture-net-5-and-up-iqwi9,0.4833,0.6203
+7,FULLSTACK DEVELOPER,angular,Advanced Angular Development,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/advanced-angular-development,0.6139,0.7118
+7,FULLSTACK DEVELOPER,angular,Angular 17 Specialization,LearnQuest,Beginner level,4.5,https://www.coursera.org/specializations/angular17,0.5884,0.6819
+7,FULLSTACK DEVELOPER,angular,Theory of Angular Momentum,University of Colorado Boulder,Intermediate level,4.0,https://www.coursera.org/learn/theory-of-angular-momentum,0.5276,0.6093
+7,FULLSTACK DEVELOPER,aws,AWS Advanced,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/aws-architect-associate-aws-advanced,0.7278,0.7915
+7,FULLSTACK DEVELOPER,aws,AWS Fundamentals Specialization,Amazon Web Services,Beginner level,4.6,https://www.coursera.org/specializations/aws-fundamentals,0.6659,0.7421
+7,FULLSTACK DEVELOPER,aws,Hands-on with AWS for IT Professionals,Amazon Web Services,Beginner level,4.8,https://www.coursera.org/learn/aws-handson-skills,0.6141,0.7179
+7,FULLSTACK DEVELOPER,docker,Docker for Beginners with Hands-on labs,KodeKloud,Beginner level,4.5,https://www.coursera.org/learn/docker-for-the-absolute-beginner,0.8476,0.8634
+7,FULLSTACK DEVELOPER,docker,Containerize Spring Boot CRUD with Docker and Docker Compose,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-containerize-spring-boot-crud-with-docker-and-docker-compose-f2tck,0.719,0.7853
+7,FULLSTACK DEVELOPER,docker,Getting Started with Docker,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/docker-certified-associate-getting-started-with-docker,0.7009,0.7727
+7,FULLSTACK DEVELOPER,express,Developing Back-End Apps with Node.js and Express,IBM,Intermediate level,4.5,https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express,0.3729,0.531
+7,FULLSTACK DEVELOPER,express,Backend Development and API Creation,Packt,Beginner level,Not rated,https://www.coursera.org/learn/packt-backend-development-and-api-creation-w2u4y,0.293,0.4871
+7,FULLSTACK DEVELOPER,express,"JavaScript Programming with React, Node & MongoDB Specialization",IBM,Beginner level,4.6,https://www.coursera.org/specializations/javascript-programming-with-react-node-mongodb,0.2451,0.4476
+7,FULLSTACK DEVELOPER,git,Getting Started with Git and GitHub,IBM,Beginner level,4.6,https://www.coursera.org/learn/getting-started-with-git-and-github,0.6978,0.7644
+7,FULLSTACK DEVELOPER,git,Using Git for Distributed Development,The Linux Foundation,Beginner level,4.6,https://www.coursera.org/learn/git-distributed-development,0.6684,0.7439
+7,FULLSTACK DEVELOPER,git,Version Control with Git,Atlassian,Not specified,4.7,https://www.coursera.org/learn/version-control-with-git,0.5221,0.6475
+7,FULLSTACK DEVELOPER,jquery,"JavaScript, jQuery, and JSON",University of Michigan,Intermediate level,4.6,https://www.coursera.org/learn/javascript-jquery-json,0.3855,0.5458
+7,FULLSTACK DEVELOPER,jquery,JavaScript for Beginners Specialization,"University of California, Davis",Beginner level,4.7,https://www.coursera.org/specializations/javascript-beginner,0.2893,0.4845
+7,FULLSTACK DEVELOPER,jquery,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.273,0.4791
+7,FULLSTACK DEVELOPER,kafka,Kafka Architecture and Internals,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/apache-kafka-architecture-and-internals,0.6751,0.7546
+7,FULLSTACK DEVELOPER,kafka,Kafka Fundamentals,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/apache-kafka-fundamentals,0.6712,0.7519
+7,FULLSTACK DEVELOPER,kafka,Apache Kafka Specialization,LearnKartS,Beginner level,4.1,https://www.coursera.org/specializations/complete-apache-kafka-course,0.6595,0.7077
+7,FULLSTACK DEVELOPER,kubernetes,Advanced Kubernetes,LearnKartS,Intermediate level,Not rated,https://www.coursera.org/learn/certified-kubernetes-application-developer-advanced-kubernetes,0.6782,0.7567
+7,FULLSTACK DEVELOPER,kubernetes,Kubernetes Fundamentals,LearnKartS,Beginner level,Not rated,https://www.coursera.org/learn/certified-kubernetes-application-developer-kubernetes-fundamentals,0.6447,0.7333
+7,FULLSTACK DEVELOPER,kubernetes,Kubernetes for Beginners,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-kubernetes-for-beginners-pj7v5,0.6314,0.724
+7,FULLSTACK DEVELOPER,mongodb,Introduction to MongoDB,MongoDB Inc.,Beginner level,4.6,https://www.coursera.org/learn/introduction-to-mongodb,0.7708,0.8155
+7,FULLSTACK DEVELOPER,mongodb,Data Wrangling with MongoDB,Edureka,Intermediate level,Not rated,https://www.coursera.org/learn/data-wrangling-with-mongodb,0.6111,0.7098
+7,FULLSTACK DEVELOPER,mongodb,MongoDB Aggregation Framework,MongoDB Inc.,Intermediate level,4.5,https://www.coursera.org/learn/mongodb-aggregation-framework,0.4602,0.5921
+7,FULLSTACK DEVELOPER,php,Building Database Applications in PHP,University of Michigan,Intermediate level,4.9,https://www.coursera.org/learn/database-applications-php,0.6689,0.7622
+7,FULLSTACK DEVELOPER,php,Mastering Laravel Framework and PHP,Board Infinity,Intermediate level,4.2,https://www.coursera.org/learn/laravel-framework-and-php,0.5111,0.6098
+7,FULLSTACK DEVELOPER,php,Building Web Applications in PHP,University of Michigan,Intermediate level,4.7,https://www.coursera.org/learn/web-applications-php,0.3767,0.5457
+7,FULLSTACK DEVELOPER,react,Advanced React Projects and Ecommerce Development,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-advanced-react-projects-and-ecommerce-development-neuup,0.7277,0.7914
+7,FULLSTACK DEVELOPER,react,Learn React,Scrimba,Intermediate level,4.7,https://www.coursera.org/learn/learn-react,0.7058,0.7761
+7,FULLSTACK DEVELOPER,react,React Native,Meta,Intermediate level,4.8,https://www.coursera.org/learn/react-native-course,0.6395,0.7357
+7,FULLSTACK DEVELOPER,seo,Introduction to Google SEO,"University of California, Davis",Beginner level,4.6,https://www.coursera.org/learn/search-engine-optimization,0.5518,0.6623
+7,FULLSTACK DEVELOPER,seo,Google SEO Capstone Project,"University of California, Davis",Intermediate level,4.8,https://www.coursera.org/learn/seo-project,0.5292,0.6585
+7,FULLSTACK DEVELOPER,seo,Google SEO Fundamentals,"University of California, Davis",Not specified,4.8,https://www.coursera.org/learn/seo-fundamentals,0.5049,0.6415
+8,Java Developer,azure,Building AI Cloud Apps with Microsoft Azure Specialization,Microsoft,Intermediate level,Not rated,https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure,0.6679,0.7496
+8,Java Developer,azure,Azure Cloud Services,Microsoft,Beginner level,Not rated,https://www.coursera.org/learn/azure-cloud-services,0.644,0.7328
+8,Java Developer,azure,Manage Identities and Governance in Azure,Whizlabs,Intermediate level,4.2,https://www.coursera.org/learn/manage-identities-and-governance-in-azure,0.6842,0.731
+8,Java Developer,jquery,"JavaScript, jQuery, and JSON",University of Michigan,Intermediate level,4.6,https://www.coursera.org/learn/javascript-jquery-json,0.3855,0.5458
+8,Java Developer,jquery,JavaScript for Beginners Specialization,"University of California, Davis",Beginner level,4.7,https://www.coursera.org/specializations/javascript-beginner,0.2893,0.4845
+8,Java Developer,jquery,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.273,0.4791
+8,Java Developer,oracle,Oracle SQL Basics,LearnQuest,Beginner level,4.6,https://www.coursera.org/learn/oracle-sql-basics,0.6061,0.7003
+8,Java Developer,oracle,Oracle SQL Exam Prep,LearnQuest,Beginner level,4.8,https://www.coursera.org/learn/oracle-sql-examprep,0.4905,0.6313
+8,Java Developer,oracle,Oracle Cloud Infrastructure Operations Professional,Oracle,Beginner level,4.9,https://www.coursera.org/learn/oracle-cloud-infrastructure-operations-associate,0.4669,0.6208
+8,Java Developer,sap,Becoming an SAP Professional,SAP,Beginner level,4.7,https://www.coursera.org/learn/becoming-an-sap-professional,0.7891,0.8344
+8,Java Developer,sap,SAP Technology Consultant  Professional Certificate,SAP,Beginner level,4.7,https://www.coursera.org/professional-certificates/sap-technology-consultant,0.7647,0.8173
+8,Java Developer,sap,Implementing an SAP Solution,SAP,Beginner level,4.8,https://www.coursera.org/learn/implementing-an-sap-solution,0.7028,0.78
+9,Software Engineer - Java Web,communication,Program Management and the Art of Communication Specialization,"University of Maryland, College Park",Beginner level,4.8,https://www.coursera.org/specializations/program-management-and-the-art-of-communication,0.4988,0.6372
+9,Software Engineer - Java Web,communication,Introduction to Communication Science,University of Amsterdam,Not specified,4.7,https://www.coursera.org/learn/communication,0.4243,0.579
+9,Software Engineer - Java Web,communication,Digital Communication and Emotion,Arizona State University,Not specified,Not rated,https://www.coursera.org/learn/digitalcommunicationandemotion,0.4136,0.5715
+9,Software Engineer - Java Web,jquery,"JavaScript, jQuery, and JSON",University of Michigan,Intermediate level,4.6,https://www.coursera.org/learn/javascript-jquery-json,0.3855,0.5458
+9,Software Engineer - Java Web,jquery,JavaScript for Beginners Specialization,"University of California, Davis",Beginner level,4.7,https://www.coursera.org/specializations/javascript-beginner,0.2893,0.4845
+9,Software Engineer - Java Web,jquery,Web Applications for Everybody Specialization,University of Michigan,Intermediate level,4.8,https://www.coursera.org/specializations/web-applications,0.273,0.4791
+9,Software Engineer - Java Web,oracle,Oracle SQL Basics,LearnQuest,Beginner level,4.6,https://www.coursera.org/learn/oracle-sql-basics,0.6061,0.7003
+9,Software Engineer - Java Web,oracle,Oracle SQL Exam Prep,LearnQuest,Beginner level,4.8,https://www.coursera.org/learn/oracle-sql-examprep,0.4905,0.6313
+9,Software Engineer - Java Web,oracle,Oracle Cloud Infrastructure Operations Professional,Oracle,Beginner level,4.9,https://www.coursera.org/learn/oracle-cloud-infrastructure-operations-associate,0.4669,0.6208
+9,Software Engineer - Java Web,spring,Spring Framework Specialization,LearnQuest,Beginner level,3.9,https://www.coursera.org/specializations/spring-framework,0.6487,0.6881
+9,Software Engineer - Java Web,spring,Scalable Microservices for Developers Specialization,Vanderbilt University,Intermediate level,4.5,https://www.coursera.org/specializations/microservices,0.5916,0.6841
+9,Software Engineer - Java Web,spring,Spring Data Repositories,LearnQuest,Intermediate level,4.0,https://www.coursera.org/learn/spring-repositories,0.6076,0.6653
+10,FULL STACK DEVELOPER,agile,Managing an Agile Team,University of Virginia,Not specified,4.7,https://www.coursera.org/learn/uva-darden-agile-team-management,0.6603,0.7442
+10,FULL STACK DEVELOPER,agile,Agile Dev Practices: SDLC & Project Management,Northeastern University,Beginner level,Not rated,https://www.coursera.org/learn/agile-dev-practices-sdlc--project-management,0.5486,0.666
+10,FULL STACK DEVELOPER,agile,SAFe Fundamentals Specialization,Board Infinity,Beginner level,3.7,https://www.coursera.org/specializations/safe,0.6092,0.6485
+10,FULL STACK DEVELOPER,angular,Advanced Angular Development,LearnQuest,Beginner level,Not rated,https://www.coursera.org/learn/advanced-angular-development,0.6139,0.7118
+10,FULL STACK DEVELOPER,angular,Angular 17 Specialization,LearnQuest,Beginner level,4.5,https://www.coursera.org/specializations/angular17,0.5884,0.6819
+10,FULL STACK DEVELOPER,angular,Theory of Angular Momentum,University of Colorado Boulder,Intermediate level,4.0,https://www.coursera.org/learn/theory-of-angular-momentum,0.5276,0.6093
+10,FULL STACK DEVELOPER,git,Getting Started with Git and GitHub,IBM,Beginner level,4.6,https://www.coursera.org/learn/getting-started-with-git-and-github,0.6978,0.7644
+10,FULL STACK DEVELOPER,git,Using Git for Distributed Development,The Linux Foundation,Beginner level,4.6,https://www.coursera.org/learn/git-distributed-development,0.6684,0.7439
+10,FULL STACK DEVELOPER,git,Version Control with Git,Atlassian,Not specified,4.7,https://www.coursera.org/learn/version-control-with-git,0.5221,0.6475
+10,FULL STACK DEVELOPER,react,Advanced React Projects and Ecommerce Development,Packt,Intermediate level,Not rated,https://www.coursera.org/learn/packt-advanced-react-projects-and-ecommerce-development-neuup,0.7277,0.7914
+10,FULL STACK DEVELOPER,react,Learn React,Scrimba,Intermediate level,4.7,https://www.coursera.org/learn/learn-react,0.7058,0.7761
+10,FULL STACK DEVELOPER,react,React Native,Meta,Intermediate level,4.8,https://www.coursera.org/learn/react-native-course,0.6395,0.7357
+10,FULL STACK DEVELOPER,teamwork,Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,Beginner level,4.7,https://www.coursera.org/learn/teamwork-skills-effective-communication,0.3999,0.5619
+10,FULL STACK DEVELOPER,teamwork,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Northwestern University,Not specified,4.8,https://www.coursera.org/learn/leadership-collaboration,0.2969,0.4958
+10,FULL STACK DEVELOPER,teamwork,Cross Functional Collaboration,Starweaver,Intermediate level,4.7,https://www.coursera.org/learn/crossfunctional-collaboration,0.244,0.4528
