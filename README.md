@@ -20,6 +20,19 @@ Multimedia University, Faculty of Computing and Informatics.
 - 128 course recommendations and 147 job-specific recommendations generated
 - 6,641 cleaned Coursera course records used for recommendation retrieval
 
+## RJDB External Validation
+
+The Hybrid model was benchmarked against RJDB (Pezeshkpour et al., 2023), a resume-job description benchmark with matched and unmatched pairs — used as supporting validation only, not the main dashboard dataset.
+
+| Model | Avg Matched Score | Avg Unmatched Score | Pairwise Accuracy | Runtime (sec) |
+|---|---|---|---|---|
+| TF-IDF | 0.3281 | 0.2546 | 88.5% | 0.40 |
+| DistilBERT | 0.9441 | 0.9317 | 87.5% | 62.22 |
+| SBERT | 0.7410 | 0.7029 | 69.5% | 109.64 |
+| **Hybrid** | 0.4520 | 0.3891 | **88.5%** | 110.04 |
+
+RJDB dataset: Pezeshkpour, P., et al. (2023). *Distilling Large Language Models using Skill-Occupation Graph Context for HR-Related Tasks*. https://github.com/megagonlabs/rjdb (raw dataset not redistributed here per its license — see source for access)
+
 ## My contribution
 
 Solo project — I designed and built the full pipeline: model benchmarking, resume skill extraction, skill gap analysis, career path and course recommendation logic, and the Streamlit dashboard.
@@ -40,9 +53,9 @@ Download these and place them in a `data/` folder before running the notebooks/s
 
 ## Files
 
-- Notebooks — model benchmarking, skill gap analysis, career path recommendation, learning resource recommendation
+- Notebooks — model benchmarking, resume extraction, skill gap analysis, career path recommendation, learning resource recommendation, and RJDB external validation
 - Streamlit app — the five-page dashboard (all notebook logic integrated into `Objective_6_dashboard.py`)
-- `outputs/` — sample results generated while testing the notebooks individually (to verify each component worked before integration), not actual output from running the live dashboard. Includes recommendations, skill gap results, career roadmap, and a sample user profile (skills/education extracted from a resume, no personal identifiers)
+- `output/` — sample results generated while testing the notebooks individually (to verify each component worked before integration), not actual output from running the live dashboard. Includes recommendations, skill gap results, career roadmap, model comparison results, and RJDB validation results
 
 ## Note on resume data
 
@@ -50,4 +63,4 @@ Model comparison (Objective 1) was evaluated using synthetic resumes, included i
 
 ## Note on excluded files
 
-Precomputed embeddings, TF-IDF matrices, cached similarity scores, and vectorizer/index files are not included since they're regenerable by running the pipeline on the source datasets.
+Precomputed embeddings, TF-IDF matrices, cached similarity scores, and vectorizer/index files are not included since they're regenerable by running the pipeline on the source datasets. The RJDB raw dataset is not redistributed here — see the citation above for the original source.
